@@ -5,7 +5,7 @@ package com.br.strategy.simples;
  * @author kmocelin
  * @since 17/10/2019
  */
-public class ICMS implements Imposto {
+public class ICMS implements CalculoImposto {
 
 	private double valor;
 

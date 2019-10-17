@@ -7,7 +7,13 @@ package com.br.strategy.simples;
  */
 public class CalculadoraDeImposto {
 
-	public double calcular(Imposto imposto) {
-		return imposto.calcular();
+	private CalculoImposto calculoImposto;
+
+	public CalculadoraDeImposto(CalculoImposto imposto) {
+		this.calculoImposto = imposto;
+	}
+
+	public double calcular() {
+		return calculoImposto.calcular();
 	}
 }
