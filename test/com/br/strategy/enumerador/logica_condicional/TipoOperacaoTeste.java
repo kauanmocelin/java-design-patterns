@@ -1,7 +1,9 @@
-package com.br.enum_condicional;
+package com.br.strategy.enumerador.logica_condicional;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.br.strategy.enumerador.logica_condicional.TipoOperacao;
 
 /**
  * 

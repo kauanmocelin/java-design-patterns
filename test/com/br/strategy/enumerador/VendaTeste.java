@@ -1,15 +1,15 @@
 /**
  * 
  */
-package br.com.strategy.enumerador;
+package com.br.strategy.enumerador;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import br.com.strategy.enumerador.Cargo;
-import br.com.strategy.enumerador.Funcionario;
-import br.com.strategy.enumerador.Venda;
+import com.br.strategy.enumerador.Cargo;
+import com.br.strategy.enumerador.Funcionario;
+import com.br.strategy.enumerador.Venda;
 
 /**
  * 

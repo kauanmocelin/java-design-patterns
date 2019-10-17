@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.strategy.enumerador;
+package com.br.strategy.enumerador;
 
 /**
  * 
