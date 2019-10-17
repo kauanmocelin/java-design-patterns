@@ -1,20 +1,20 @@
-package com.br.strategy;
+package com.br.strategy.simples;
 
 /**
  * 
  * @author kmocelin
  * @since 17/10/2019
  */
-public class ICMS implements Imposto {
+public class IPI implements Imposto {
 
 	private double valor;
 
-	public ICMS(double valor) {
+	public IPI(double valor) {
 		this.valor = valor;
 	}
 
 	@Override
 	public double calcular() {
-		return this.valor * 0.10;
+		return this.valor * 0.20;
 	}
 }

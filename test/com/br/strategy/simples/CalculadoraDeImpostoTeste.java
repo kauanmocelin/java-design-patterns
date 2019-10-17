@@ -1,7 +1,11 @@
-package com.br.strategy;
+package com.br.strategy.simples;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.br.strategy.simples.CalculadoraDeImposto;
+import com.br.strategy.simples.ICMS;
+import com.br.strategy.simples.IPI;
 
 /**
  * 

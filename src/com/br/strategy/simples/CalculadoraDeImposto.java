@@ -1,4 +1,4 @@
-package com.br.strategy;
+package com.br.strategy.simples;
 
 /**
  * 
