@@ -1,4 +1,4 @@
-package com.br.strategy.enumerador.logica_condicional;
+package com.br.strategy.enumerador_logica_condicional;
 
 /**
  * 
