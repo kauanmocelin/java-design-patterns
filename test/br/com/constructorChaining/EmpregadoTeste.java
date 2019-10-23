@@ -1,7 +1,9 @@
-package br.com.constructor_chaining;
+package br.com.constructorChaining;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.br.constructorChaining.Empregado;
 
 /**
  * 

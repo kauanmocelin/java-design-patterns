@@ -1,7 +1,10 @@
-package com.br.null_object;
+package com.br.nullObject;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.br.nullObject.ApresentacaoCarrinho;
+import com.br.nullObject.Carrinho;
 
 
 /**

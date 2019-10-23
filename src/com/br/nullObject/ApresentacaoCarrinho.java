@@ -1,4 +1,4 @@
-package com.br.null_object;
+package com.br.nullObject;
 
 /**
  * 

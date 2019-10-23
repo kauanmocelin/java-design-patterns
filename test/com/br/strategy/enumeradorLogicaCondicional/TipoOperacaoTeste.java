@@ -1,9 +1,9 @@
-package com.br.strategy.enumerador_logica_condicional;
+package com.br.strategy.enumeradorLogicaCondicional;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.br.strategy.enumerador_logica_condicional.TipoOperacao;
+import com.br.strategy.enumeradorLogicaCondicional.TipoOperacao;
 
 /**
  * 
