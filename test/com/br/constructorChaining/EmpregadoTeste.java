@@ -1,4 +1,4 @@
-package br.com.constructorChaining;
+package com.br.constructorChaining;
 
 import org.junit.Assert;
 import org.junit.Test;
